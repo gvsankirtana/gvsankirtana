@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning new technologies<br>🎯 Goals: Learn new stuff everyday<br>🎲 Fun fact: Why did the programmer go broke? Because he used up all his cache!</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently invested in exploring software engineering<br>🎯 Goals: Learn new stuff everyday<br>🎲 Fun fact: Why did the programmer go broke? Because he used up all his cache!</p>
 
 ###
 
